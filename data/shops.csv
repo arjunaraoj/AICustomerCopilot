@@ -1,0 +1,11 @@
+id,name,category,location,description,price_range,rating
+S001,ION Orchard,Shopping Mall,Orchard Road,"Luxury mall with international brands",$$$$,4.6
+S002,Marina Bay Sands Shoppes,Shopping Mall,Bayfront,"High-end mall with canal boat rides",$$$$,4.7
+S003,Chinatown Street Market,Market,Chinatown,"Traditional street market with souvenirs",$,4.3
+S004,Tangs,Department Store,Orchard Road,"Singapore's iconic department store",$$$,4.5
+S005,Sim Lim Square,Electronics,Rochor,"Electronics and gadget hub",$$,4.0
+S006,Clarke Quay,Retail,Riverside,"Riverside shopping and entertainment",$$,4.4
+S007,Scotts Square,Luxury Retail,Orchard Road,"Boutique luxury brands",$$$$,4.5
+S008,Bugis Street Market,Market,Bugis,"Affordable fashion and accessories",$,4.2
+S009,Takashimaya,Department Store,Orchard Road,"Japanese department store with luxury brands",$$$,4.6
+S010,The Shoppes at Marina Bay,Shopping Mall,Bayfront,"Luxury shopping and dining",$$$$,4.7

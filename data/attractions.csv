@@ -1,0 +1,11 @@
+id,name,category,location,description,entry_fee,opening_hours,rating,tags
+AT001,Marina Bay Sands,Landmark,Bayfront,Iconic integrated resort with sky park and infinity pool,23.00,"10:00-22:00",4.8,"luxury,view,architecture"
+AT002,Gardens by the Bay,Attraction,Bayfront,Supertree Grove and Cloud Forest conservatory,28.00,"9:00-21:00",4.7,"nature,family,photo"
+AT003,Sentosa Island,Attraction,Sentosa,Resort island with beaches and Universal Studios,6.00,"24/7",4.6,"beach,entertainment,family"
+AT004,Singapore Zoo,Zoo,Mandai,World-renowned zoo with open concept exhibits,48.00,"8:30-18:00",4.8,"animals,family,educational"
+AT005,Chinatown,Cultural,Chinatown,Historic area with temples and traditional shops,0.00,"24/7",4.5,"culture,shopping,heritage"
+AT006,Little India,Cultural,Little India,Vibrant district with colorful shops and temples,0.00,"24/7",4.5,"culture,food,colorful"
+AT007,Orchard Road,Shopping,Orchard,Prime shopping belt with luxury brands,0.00,"24/7",4.4,"shopping,luxury,christmas"
+AT008,Singapore Flyer,Attraction,Marina Centre,Giant observation wheel with city views,33.00,"10:00-22:00",4.4,"view,romantic,photo"
+AT009,Merlion Park,Landmark,Marina Bay,Iconic Merlion statue with waterfront views,0.00,"24/7",4.5,"iconic,photo,landmark"
+AT010,Botanic Gardens,Nature,Bukit Timah,UNESCO heritage site with orchids,0.00,"5:00-00:00",4.7,"nature,walking,unesco"

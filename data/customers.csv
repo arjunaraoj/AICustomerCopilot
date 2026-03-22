@@ -1,0 +1,11 @@
+customer_id,name,country,preferences,visit_date,budget,group_size
+C001,John Smith,USA,"luxury,photography,food","2026-03-15",5000,2
+C002,Maria Garcia,Spain,"culture,history,museums","2026-03-20",3000,1
+C003,Kenji Tanaka,Japan,"shopping,technology,anime","2026-04-01",4000,3
+C004,Emma Wilson,UK,"nature,food,family","2026-03-25",3500,4
+C005,Li Wei,China,"luxury,nightlife,entertainment","2026-03-18",6000,2
+C006,Sarah Chen,Singapore,"local food,shopping,staycation","2026-03-22",1500,2
+C007,David Miller,Australia,"adventure,beach,outdoor","2026-04-05",4000,2
+C008,Aisha Khan,India,"cultural,heritage,food","2026-03-28",2500,3
+C009,Pierre Dubois,France,"art,museums,architecture","2026-04-10",4500,1
+C010,Hannah Lee,South Korea,"beauty,fashion,cafe","2026-03-30",3500,2

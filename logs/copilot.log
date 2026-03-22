@@ -1,0 +1,72 @@
+2026-03-21 12:05:40,624 - main - INFO - AI Customer Copilot initialized
+2026-03-21 12:05:40,624 - main - INFO - Processing query: What are the best attractions in Singapore?
+2026-03-21 12:05:40,624 - Agent.PlannerAgent - INFO - [PlannerAgent] Planning for query: What are the best attractions in Singapore?
+2026-03-21 12:05:43,451 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-21 12:05:43,474 - Agent.RetrievalAgent - INFO - [RetrievalAgent] Retrieving data for: What are the best attractions in Singapore?
+2026-03-21 12:05:43,484 - tools.data_loader - INFO - Loaded 10 records from attractions.csv
+2026-03-21 12:05:43,484 - tools.data_loader - INFO - Loaded 10 records from restaurants.csv
+2026-03-21 12:05:43,505 - tools.data_loader - INFO - Loaded 10 records from shops.csv
+2026-03-21 12:05:43,512 - tools.data_loader - ERROR - Failed to load promotions.csv: Error tokenizing data. C error: Expected 9 fields in line 3, saw 11
+
+2026-03-21 12:05:43,513 - Agent.ResponseAgent - INFO - [ResponseAgent] Generating final response
+2026-03-21 12:05:48,113 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-21 12:09:49,587 - main - INFO - AI Customer Copilot initialized
+2026-03-21 12:09:49,588 - main - INFO - Processing query: What are the best attractions for families?
+2026-03-21 12:09:49,588 - Agent.PlannerAgent - INFO - [PlannerAgent] Planning for query: What are the best attractions for families?
+2026-03-21 12:09:52,194 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-21 12:09:52,203 - Agent.RetrievalAgent - INFO - [RetrievalAgent] Retrieving data for: What are the best attractions for families?
+2026-03-21 12:09:52,205 - tools.data_loader - INFO - Loaded 10 records from attractions.csv
+2026-03-21 12:09:52,207 - tools.data_loader - INFO - Loaded 10 records from restaurants.csv
+2026-03-21 12:09:52,208 - tools.data_loader - INFO - Loaded 10 records from shops.csv
+2026-03-21 12:09:52,209 - tools.data_loader - INFO - Loaded 8 records from promotions.csv
+2026-03-21 12:09:52,210 - Agent.ResponseAgent - INFO - [ResponseAgent] Generating final response
+2026-03-21 12:09:57,761 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-21 12:10:25,156 - main - INFO - Processing query: Where can I find good local food?
+2026-03-21 12:10:25,156 - Agent.PlannerAgent - INFO - [PlannerAgent] Planning for query: Where can I find good local food?
+2026-03-21 12:10:27,067 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-21 12:10:27,071 - Agent.RetrievalAgent - INFO - [RetrievalAgent] Retrieving data for: Where can I find good local food?
+2026-03-21 12:10:27,073 - tools.data_loader - INFO - Loaded 10 records from attractions.csv
+2026-03-21 12:10:27,075 - tools.data_loader - INFO - Loaded 10 records from restaurants.csv
+2026-03-21 12:10:27,078 - tools.data_loader - INFO - Loaded 10 records from shops.csv
+2026-03-21 12:10:27,080 - tools.data_loader - INFO - Loaded 8 records from promotions.csv
+2026-03-21 12:10:27,081 - Agent.AnalyticsAgent - INFO - [AnalyticsAgent] Analyzing: general
+2026-03-21 12:10:27,090 - tools.data_loader - INFO - Loaded 10 records from customers.csv
+2026-03-21 12:10:27,100 - tools.data_loader - INFO - Loaded 25 records from transactions.csv
+2026-03-21 12:10:27,107 - Agent.ResponseAgent - INFO - [ResponseAgent] Generating final response
+2026-03-21 12:10:36,610 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-21 12:11:07,402 - main - INFO - Processing query: Tell me about Sentosa Island
+2026-03-21 12:11:07,403 - Agent.PlannerAgent - INFO - [PlannerAgent] Planning for query: Tell me about Sentosa Island
+2026-03-21 12:11:09,910 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-21 12:11:09,913 - Agent.RetrievalAgent - INFO - [RetrievalAgent] Retrieving data for: Tell me about Sentosa Island
+2026-03-21 12:11:09,915 - tools.data_loader - INFO - Loaded 10 records from attractions.csv
+2026-03-21 12:11:09,917 - tools.data_loader - INFO - Loaded 10 records from restaurants.csv
+2026-03-21 12:11:09,919 - tools.data_loader - INFO - Loaded 10 records from shops.csv
+2026-03-21 12:11:09,921 - tools.data_loader - INFO - Loaded 8 records from promotions.csv
+2026-03-21 12:11:09,921 - Agent.ResponseAgent - INFO - [ResponseAgent] Generating final response
+2026-03-21 12:11:19,181 - main - INFO - AI Customer Copilot initialized
+2026-03-21 12:11:52,110 - main - INFO - Processing query: I want 3 day plan to singapore with 6000 SGD
+2026-03-21 12:11:52,111 - Agent.PlannerAgent - INFO - [PlannerAgent] Planning for query: I want 3 day plan to singapore with 6000 SGD
+2026-03-21 12:11:53,962 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-21 12:11:53,975 - Agent.RetrievalAgent - INFO - [RetrievalAgent] Retrieving data for: I want 3 day plan to singapore with 6000 SGD
+2026-03-21 12:11:53,977 - tools.data_loader - INFO - Loaded 10 records from attractions.csv
+2026-03-21 12:11:53,983 - tools.data_loader - INFO - Loaded 10 records from restaurants.csv
+2026-03-21 12:11:53,985 - tools.data_loader - INFO - Loaded 10 records from shops.csv
+2026-03-21 12:11:53,988 - tools.data_loader - INFO - Loaded 8 records from promotions.csv
+2026-03-21 12:11:53,988 - Agent.AnalyticsAgent - INFO - [AnalyticsAgent] Analyzing: general
+2026-03-21 12:11:53,990 - tools.data_loader - INFO - Loaded 10 records from customers.csv
+2026-03-21 12:11:53,991 - tools.data_loader - INFO - Loaded 25 records from transactions.csv
+2026-03-21 12:11:53,992 - Agent.ResponseAgent - INFO - [ResponseAgent] Generating final response
+2026-03-21 12:11:59,968 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-21 12:13:03,917 - main - INFO - Processing query: I am night safari with 2 children and my wife
+2026-03-21 12:13:03,918 - Agent.PlannerAgent - INFO - [PlannerAgent] Planning for query: I am night safari with 2 children and my wife
+2026-03-21 12:13:06,567 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-21 12:13:06,570 - Agent.RetrievalAgent - INFO - [RetrievalAgent] Retrieving data for: I am night safari with 2 children and my wife
+2026-03-21 12:13:06,573 - tools.data_loader - INFO - Loaded 10 records from attractions.csv
+2026-03-21 12:13:06,576 - tools.data_loader - INFO - Loaded 10 records from restaurants.csv
+2026-03-21 12:13:06,578 - tools.data_loader - INFO - Loaded 10 records from shops.csv
+2026-03-21 12:13:06,581 - tools.data_loader - INFO - Loaded 8 records from promotions.csv
+2026-03-21 12:13:06,581 - Agent.AnalyticsAgent - INFO - [AnalyticsAgent] Analyzing: general
+2026-03-21 12:13:06,582 - tools.data_loader - INFO - Loaded 10 records from customers.csv
+2026-03-21 12:13:06,583 - tools.data_loader - INFO - Loaded 25 records from transactions.csv
+2026-03-21 12:13:06,584 - Agent.ResponseAgent - INFO - [ResponseAgent] Generating final response
+2026-03-21 12:13:11,672 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"

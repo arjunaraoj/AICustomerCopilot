@@ -1,0 +1,9 @@
+﻿id,name,type,discount,valid_from,valid_to,terms,merchant_ids
+P001,Marina Bay Sands Package,Luxury,20%,2026-03-01,2026-04-30,"Minimum 2 nights stay","AT001,S002"
+P002,Hawker Trail Bundle,Food,15%,2026-03-01,2026-05-31,"Visit 3 hawker centers","R001,R003,R006,R009"
+P003,Sentosa Fun Pass,Attraction,25%,2026-03-15,2026-04-30,"3 attractions package","AT003"
+P004,Orchard Road Shopping,Retail,10%,2026-03-20,2026-04-20,"Minimum $200 spend","S001,S004,S007,S009"
+P005,Family Zoo Package,Family,30%,2026-03-01,2026-04-30,"2 adults + 2 children","AT004"
+P006,Cultural Heritage Tour,Culture,20%,2026-03-10,2026-04-25,"Guided tour included","AT005,AT006"
+P007,Singapore Sling Experience,Bar,15%,2026-03-01,2026-04-30,"At participating bars","R010"
+P008,Photography Tour,Special,25%,2026-03-05,2026-04-15,"Professional guide","AT001,AT002,AT009"

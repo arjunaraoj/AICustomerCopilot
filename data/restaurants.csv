@@ -1,0 +1,11 @@
+id,name,cuisine,location,price_range,description,rating,must_try
+R001,Maxwell Food Centre,Local Hawker,Chinatown,$,"Famous hawker center with Michelin-starred chicken rice",4.6,"Tian Tian Chicken Rice"
+R002,Jumbo Seafood,Seafood,East Coast,$$$,Famous for chili crab with waterfront dining,4.7,"Chili Crab, Black Pepper Crab"
+R003,Lau Pa Sat,Local Hawker,Raffles Place,$,Historic market with satay street,4.4,"Satay, Local Kopi"
+R004,Odette,French,City Hall,$$$$,Three-Michelin-star French fine dining,4.9,"Signature tasting menu"
+R005,Din Tai Fung,Chinese,Multiple Locations,$$,Famous for xiaolongbao and noodles,4.6,"Xiaolongbao, Fried Rice"
+R006,Newton Food Centre,Local Hawker,Newton,$,Popular hawker centre featured in Crazy Rich Asians,4.3,"Hokkien Mee, BBQ Seafood"
+R007,PS.Cafe,Western,Multiple Locations,$$,Trendy cafe chain with brunch menu,4.4,"Truffle Fries, Sunday Roast"
+R008,The Coconut Club,Local,Siglap,$$,Famous for authentic nasi lemak,4.5,"Nasi Lemak, Chendol"
+R009,Hawker Chan,Local,Chinatown,$,Michelin-starred soya sauce chicken,4.4,"Soya Sauce Chicken Rice"
+R010,Atlas,Bar,City Hall,$$$$,Gin bar in art deco building with European cuisine,4.7,"Gin Tasting, Oysters"
